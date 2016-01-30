@@ -1,0 +1,27 @@
+C:\Users\Asper\Documents\Visual Studio 2010\Projects\Employee Management System\Employee Management System\bin\Release\Employee Management System.exe
+C:\Users\Asper\Documents\Visual Studio 2010\Projects\Employee Management System\Employee Management System\bin\Release\Employee Management System.pdb
+C:\Users\Asper\Documents\Visual Studio 2010\Projects\Employee Management System\Employee Management System\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Asper\Documents\Visual Studio 2010\Projects\Employee Management System\Employee Management System\obj\x86\Release\Employee_Management_System.Login.resources
+C:\Users\Asper\Documents\Visual Studio 2010\Projects\Employee Management System\Employee Management System\obj\x86\Release\Employee_Management_System.Properties.Resources.resources
+C:\Users\Asper\Documents\Visual Studio 2010\Projects\Employee Management System\Employee Management System\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Asper\Documents\Visual Studio 2010\Projects\Employee Management System\Employee Management System\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Asper\Documents\Visual Studio 2010\Projects\Employee Management System\Employee Management System\obj\x86\Release\Employee Management System.exe
+C:\Users\Asper\Documents\Visual Studio 2010\Projects\Employee Management System\Employee Management System\obj\x86\Release\Employee Management System.pdb
+C:\Users\Asper\Documents\Visual Studio 2010\Projects\Employee Management System\Employee Management System\bin\Release\EMS.mdf
+C:\Users\Asper\Documents\Visual Studio 2010\Projects\Employee Management System\Employee Management System\bin\Release\EMS_log.ldf
+C:\Users\Asper\Documents\Visual Studio 2010\Projects\Employee Management System\Employee Management System\bin\Release\Employee Management System.exe.config
+C:\Users\Asper\Documents\Visual Studio 2010\Projects\Employee Management System\Employee Management System\obj\x86\Release\Employee_Management_System.Employe.resources
+C:\Users\Asper\Documents\Visual Studio 2010\Projects\Employee Management System\Employee Management System\obj\x86\Release\Employee_Management_System.Project.resources
+C:\Users\Asper\Documents\Visual Studio 2010\Projects\Employee Management System\Employee Management System\obj\x86\Release\Employee_Management_System.Account.resources
+C:\Users\Rakibul Islam\Documents\Visual Studio 2010\Projects\Employee Management System\Employee Management System\bin\Release\Employee Management System.exe.config
+C:\Users\Rakibul Islam\Documents\Visual Studio 2010\Projects\Employee Management System\Employee Management System\obj\x86\Release\Employee Management System.exe
+C:\Users\Rakibul Islam\Documents\Visual Studio 2010\Projects\Employee Management System\Employee Management System\obj\x86\Release\Employee Management System.pdb
+C:\Users\Rakibul Islam\Documents\Visual Studio 2010\Projects\Employee Management System\Employee Management System\bin\Release\Employee Management System.exe
+C:\Users\Rakibul Islam\Documents\Visual Studio 2010\Projects\Employee Management System\Employee Management System\bin\Release\Employee Management System.pdb
+C:\Users\Rakibul Islam\Documents\Visual Studio 2010\Projects\Employee Management System\Employee Management System\obj\x86\Release\Employee_Management_System.About.resources
+C:\Users\Rakibul Islam\Documents\Visual Studio 2010\Projects\Employee Management System\Employee Management System\obj\x86\Release\Employee_Management_System.Account.resources
+C:\Users\Rakibul Islam\Documents\Visual Studio 2010\Projects\Employee Management System\Employee Management System\obj\x86\Release\Employee_Management_System.Employe.resources
+C:\Users\Rakibul Islam\Documents\Visual Studio 2010\Projects\Employee Management System\Employee Management System\obj\x86\Release\Employee_Management_System.Login.resources
+C:\Users\Rakibul Islam\Documents\Visual Studio 2010\Projects\Employee Management System\Employee Management System\obj\x86\Release\Employee_Management_System.Project.resources
+C:\Users\Rakibul Islam\Documents\Visual Studio 2010\Projects\Employee Management System\Employee Management System\obj\x86\Release\Employee_Management_System.Properties.Resources.resources
+C:\Users\Rakibul Islam\Documents\Visual Studio 2010\Projects\Employee Management System\Employee Management System\obj\x86\Release\Employee Management System.csproj.GenerateResource.Cache
